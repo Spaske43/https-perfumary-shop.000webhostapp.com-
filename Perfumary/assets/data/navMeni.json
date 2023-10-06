@@ -1,0 +1,18 @@
+[
+    {
+        "naziv" : "Home",
+        "href" : "index.html"
+    },
+    {
+        "naziv" : "ContactUs",
+        "href" : "index.html#contact-us"
+    },
+    {
+        "naziv" : "Shop",
+        "href" : "shop.html"
+    },
+    {
+        "naziv" : "AboutUs",
+        "href" : "about.html"
+    }
+]

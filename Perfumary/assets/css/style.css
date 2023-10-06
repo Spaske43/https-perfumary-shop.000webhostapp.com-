@@ -1,0 +1,170 @@
+@import url(https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap);@import url(https://fonts.googleapis.com/css2?family=Italianno&display=swap);* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box
+}
+#banner img{  
+  background-position: center; 
+  width:100%;
+  height:auto;
+}
+.main-menu-item {
+  justify-content: center !important;
+}
+.main_menu a i {
+  color: #4B3049 !important;
+  position: relative;
+  z-index: 1;
+  font-size: 20px;
+  margin-left: 30px;
+}
+#ikonaKorpe {
+  font-size: 3rem;
+}
+#uredjivanje
+{
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+.tekst a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #142236;
+  padding: 5px 10px 5px 10px;
+  margin: 0px auto;
+  border-radius: 10px;
+}
+#pic
+{
+  border: 2px solid rgb(0, 0, 0);
+}
+.naslovAutor {
+  text-align: center;
+}
+
+#korpa
+{
+  font-size: 30px;
+}
+.contact-us input {
+  border-radius: 3px;
+  padding-left: 15px;
+  font-size: 13px;
+  color: #4a4a4a;
+  background-color: #f4f4f4;
+  outline: none!important;
+  border: none;
+  box-shadow: none;
+  line-height: 44px;
+  height: 44px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.contact-us textarea {
+  border-radius: 3px;
+  padding-left: 15px;
+  padding-top: 10px;
+  font-size: 13px;
+  color: #4a4a4a;
+  background-color: #f4f4f4;
+  outline: none;
+  border: none;
+  box-shadow: none;
+  height: 122px;
+  max-height: 220px;
+  width: 100%;
+  margin-bottom: 25px;
+}
+.PromenaBoje
+{
+  border-bottom: 2px solid grey;
+}
+.contact-us button {
+  width: 100%;
+  display: inline-block;
+  background-color: #142236;
+  color: #fff;
+  font-size: 13px;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 12px 20px;
+  border-radius: 3px;
+  text-decoration: none;
+  letter-spacing: 0.5px;
+}
+.PromenaPozadine
+{
+  padding: 20px;
+  border-radius: 20px;
+  background-color: bisque;
+}
+.greska
+{
+  border: 1px solid  #e60000!important;
+}
+.dobro
+{
+  border:1px solid  #14ff1f!important;
+}
+
+.form-check-input
+{
+  border-color: #e9c490!important;
+}
+.font
+{
+  font-family: 'Playfair Display',serif;
+}
+.border
+{
+  border: 2px solid #e9c490;
+  border-radius: 5px;
+}
+#Female,#Male
+{
+  padding: 0px!important;
+  font-size: 0px;
+  height: 20px;
+  margin: 0px;
+  border : 0px;
+  line-height: 0px;
+  width: 20px;
+}
+#KorpaBr
+{
+  font-size: 20px;
+}
+#borderZaHeader
+{
+  position: fixed;
+  top: 0;
+  background-color: #fff;;
+  width: 100%;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+.bojaShimmer {
+  color: #e9c490!important;
+}
+.rounded-pill {
+  border-radius: 50rem!important;
+}
+.bg-dark {
+  background-color: #212529!important;
+}
+#AmP
+{
+	padding: 20px;
+	float: left;
+}
+#footer2{
+  margin-top: 320px;
+}
+#footer
+{
+  margin-top: 500px;
+}

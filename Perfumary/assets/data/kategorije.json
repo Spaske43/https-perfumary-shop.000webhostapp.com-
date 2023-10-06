@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "naziv" : "Citrus"
+    },
+    {
+        "id" : 2,
+        "naziv" : "Dry Woods"
+    },
+    {
+        "id" : 3,
+        "naziv" : "Fruity"
+    },
+    {
+        "id" : 4,
+        "naziv" : "Water"
+    },
+    {
+        "id" : 5,
+        "naziv" : "Floral"
+    },
+    {
+        "id" : 6,
+        "naziv" : "Oriental"
+    },
+    {
+        "id" : 7,
+        "naziv" : "Aromatic"
+    }
+]

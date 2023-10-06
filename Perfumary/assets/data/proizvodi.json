@@ -1,0 +1,266 @@
+[
+    {
+        "id" : 1,
+        "naziv" : "COCO",
+        "volume" : "125ml",
+        "rating" : 5,
+        "cena" : {
+            "trenutna" : "36",
+            "PrePopusta" : "50"
+        },
+        "Shipping": {
+            "canShip" : true,
+            "shippingCost" : "5"
+        },
+        "kategorije" : [1],
+        "slika" : {
+            "src" : "COCO.jpg",
+            "alt" : "COCO"
+        },
+        "Novo" : true,
+        "pol" : 2,
+        "brend" : 3
+    },
+    {
+        "id" : 2,
+        "naziv" : "Magie Noire",
+        "volume" : "25ml",
+        "rating" : 4,
+        "cena" : {
+            "trenutna" : "59",
+            "PrePopusta" : false
+        },
+        "Shipping": {
+            "canShip" : true,
+            "shippingCost" : "5"
+        },
+        "kategorije" : [2 , 1 , 3],
+        "slika" : {
+            "src" : "Magie Noire.jpg",
+            "alt" : "Magie Noire"
+        },
+        "Novo" : true,
+        "pol" : 2,
+        "brend" : 4
+    },
+    {
+        "id" : 3,
+        "naziv" : "Chance",
+        "volume" : "25ml",
+        "rating" : 5,
+        "cena" : {
+            "trenutna" : "190",
+            "PrePopusta" : "205"
+        },
+        "Shipping": {
+            "canShip" : true,
+            "shippingCost" : "5"
+        },
+        "kategorije" : [2 , 5 , 1],
+        "slika" : {
+            "src" : "chance.jpg",
+            "alt" : "Chance"
+        },
+        "Novo" : true,
+        "pol" : 2,
+        "brend" : 3
+    },
+    {
+        "id" : 4,
+        "naziv" : "Eros",
+        "volume" : "100ml",
+        "rating" : 5,
+        "cena" : {
+            "trenutna" : "200",
+            "PrePopusta" : "250"
+        },
+        "Shipping": {
+            "canShip" : true,
+            "shippingCost" : "5"
+        },
+        "kategorije" : [1, 4],
+        "slika" : {
+            "src" : "eros.jpg",
+            "alt" : "Eros"
+        },
+        "Novo" : true,
+        "pol" : 1,
+        "brend" : 2
+    },
+    {
+        "id" : 5,
+        "naziv" : "Acqua Di Gio",
+        "volume" : "125ml",
+        "rating" : 4,
+        "cena" : {
+            "trenutna" : "20",
+            "PrePopusta" : "26"
+        },
+        "Shipping": {
+            "canShip" : true,
+            "shippingCost" : "5"
+        },
+        "kategorije" : [4],
+        "slika" : {
+            "src" : "AcquaDiGio.jpg",
+            "alt" : "Acqua Di Gio"
+        },
+        "Novo" : false,
+        "pol" : 1,
+        "brend" : 5
+    },
+    {
+        "id" : 6,
+        "naziv" : "Park Avenue",
+        "volume" : "100ml",
+        "rating" : 4,
+        "cena" : {
+            "trenutna" : "200",
+            "PrePopusta" : false
+        },
+        "Shipping": {
+            "canShip" : true,
+            "shippingCost" : "5"
+        },
+        "kategorije" : [1 , 2],
+        "slika" : {
+            "src" : "parkAvenue.jpg",
+            "alt" : "Park Avenue"
+        },
+        "Novo" : true,
+        "pol" : 1,
+        "brend" : 6
+    },
+    {
+        "id" : 7,
+        "naziv" : "CK be",
+        "volume" : "125ml",
+        "rating" : 5,
+        "cena" : {
+            "trenutna" : "12",
+            "PrePopusta" : "15"
+        },
+        "Shipping": {
+            "canShip" : false,
+            "shippingCost" : "5"
+        },
+        "kategorije" : [2, 4, 6],
+        "slika" : {
+            "src" : "ckBe.jpg",
+            "alt" : "CK be"
+        },
+        "Novo" : false,
+        "pol" : 3,
+        "brend" : 7
+    },
+    {
+        "id" : 8,
+        "naziv" : "Gemma Di Paradiso",
+        "volume" : "40ml",
+        "rating" : 3,
+        "cena" : {
+            "trenutna" : "100",
+            "PrePopusta" : "135"
+        },
+        "Shipping": {
+            "canShip" : true,
+            "shippingCost" : "5"
+        },
+        "kategorije" : [7],
+        "slika" : {
+            "src" : "GemmaDiParadiso.jpg",
+            "alt" : "Gemma Di Paradiso"
+        },
+        "Novo" : true,
+        "pol" : 3,
+        "brend" : 8
+    },
+    {
+        "id" : 9,
+        "naziv" : "Libre",
+        "volume" : "80ml",
+        "rating" : 5,
+        "cena" : {
+            "trenutna" : "70",
+            "PrePopusta" : false
+        },
+        "Shipping": {
+            "canShip" : false,
+            "shippingCost" : "5"
+        },
+        "kategorije" : [2, 5],
+        "slika" : {
+            "src" : "YvesSaintLaurent.jpg",
+            "alt" : "Yves Saint Laurent"
+        },
+        "Novo" : false,
+        "pol" : 3,
+        "brend" : 9
+    },
+    {
+        "id" : 10,
+        "naziv" : "Chanel No. 5",
+        "volume" : "60ml",
+        "rating" : 4,
+        "cena" : {
+            "trenutna" : "130",
+            "PrePopusta" : "150"
+        },
+        "Shipping": {
+            "canShip" : true,
+            "shippingCost" : "5"
+        },
+        "kategorije" : [4 ,1],
+        "slika" : {
+            "src" : "n5.jpg",
+            "alt" : "Chanel No. 5"
+        },
+        "Novo" : false,
+        "pol" : 2,
+        "brend" : 3
+    },
+    {
+        "id" : 11,
+        "naziv" : "Aqua Allegoria",
+        "volume" : "125ml",
+        "rating" : 4,
+        "cena" : {
+            "trenutna" : "78",
+            "PrePopusta" : "90"
+        },
+        "Shipping": {
+            "canShip" : true,
+            "shippingCost" : "5"
+        },
+        "kategorije" : [2, 1 ,4],
+        "slika" : {
+            "src" : "AquaAllegoria.jpg",
+            "alt" : "Aqua Allegoria"
+        },
+        "Novo" : true,
+        "pol" : 2,
+        "brend" : 1
+    },
+    {
+        "id" : 12,
+        "naziv" : "Black Opium",
+        "volume" : "75ml",
+        "rating" : 4,
+        "cena" : {
+            "trenutna" : "83",
+            "PrePopusta" : false
+        },
+        "Shipping": {
+            "canShip" : false,
+            "shippingCost" : "5"
+        },
+        "kategorije" : [2],
+        "slika" : {
+            "src" : "BlackOpium.jpg",
+            "alt" : "Black Opium"
+        },
+        "Novo" : false,
+        "pol" : 3,
+        "brend" : 9
+    }
+]

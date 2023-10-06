@@ -1,0 +1,68 @@
+@media screen and (max-width:992px){
+    .navbar-brand{
+        width: 60% !important;
+        text-align: center !important;
+    }
+    #videoPocetna{
+        width: 350px;
+    }
+    
+}
+
+
+@media screen and (max-width:492px){
+    #btnMeni btn, #kolicaKupovina i{
+        font-size: 15px;
+    }
+
+    #modal, #modalKorpa{
+        width: 80% !important;
+    }
+
+    .brojProizvoda{
+        font-size: 10px;
+    }
+    #modalAutor p{
+        font-size: 15px;
+    }
+    
+}
+
+@media screen and (max-width:400px){
+    .navbar-brand{
+        width: 50% !important;
+    }
+    #videoPocetna{
+        width: 280px;
+    }
+    #kolicaKupovina a{
+        font-size: 15px;
+    }
+    #btnMeni btn{
+        font-size: 15px;
+    }
+
+    #videoyt{
+        width: 290px;
+    }
+    #modalAutor p{
+        font-size: 9px;
+    }
+    
+
+}
+
+@media screen and (max-width:299px){
+    #videoPocetna{
+        width: 250px;
+    }
+
+    #videoyt{
+        width: 250px;
+    }
+    
+    #modalAutor p{
+        font-size: 7px;
+    }
+}
+

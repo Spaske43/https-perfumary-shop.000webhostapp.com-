@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "naziv" : "Guerlian"
+    },
+    {
+        "id" : 2,
+        "naziv" : "Versace"
+    },
+    {
+        "id" : 3,
+        "naziv" : "Chanel"
+    },
+    {
+        "id" : 4,
+        "naziv" : "Lancome"
+    },
+    {
+        "id" : 5,
+        "naziv" : "Giorgio Armani"
+    },
+    {
+        "id" : 6,
+        "naziv" : "Bond No. 9"
+    },
+    {
+        "id" : 7,
+        "naziv" : "Calvin Klein"
+    },
+    {
+        "id" : 8,
+        "naziv" : "Roberto Cavalli"
+    },
+    {
+        "id" : 9,
+        "naziv" : "Yves Saint Laurent"
+    }
+]
